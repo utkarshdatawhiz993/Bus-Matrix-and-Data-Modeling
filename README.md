@@ -36,3 +36,5 @@ In this structure, Dim_Transport and Dim_School are normalized and connected to 
 
 This hybrid model enables efficient data retrieval while maintaining a clear representation of relationships across business entities.
 
+<a href="https://github.com/utkarshdatawhiz993/Bus-Matrix-and-Data-Modeling/blob/main/Screenshot%202025-07-31%20at%2011.50.39%20AM.png"> Click here for model design</a>
+
